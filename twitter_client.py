@@ -3,16 +3,16 @@
 A standalone twitter client implementation
 see https://tweepy.readthedocs.io/en/latest/
 """
-import tweepy
+# import tweepy
 
 
-class TwitterClient(tweepy.StreamListener):
-    pass
+# class TwitterClient(tweepy.StreamListener):
+#     pass
 
 
-def main():
-    pass
+# def main():
+#     pass
 
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()

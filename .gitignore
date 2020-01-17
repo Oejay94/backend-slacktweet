@@ -1,6 +1,5 @@
 .vscode/
 .env
 .venv/
-venv/
 *.code-workspace
 *.log

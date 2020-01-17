@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """A Slackbot implementation that integrates Slack and Twitter clients together"""
 
-from slack_client import SlackClient
+from slack_client import SlackBot
 from twitter_client import TwitterClient
 
 
